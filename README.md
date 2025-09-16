@@ -1,5 +1,7 @@
 ## 👋 Hey there, I'm Massimo!
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MassimoCubello&label=Profile%20views&color=0e75b6&style=flat" alt="MassimoCubello" /> </p>
+
 I’m a web developer with a background in marketing and customer success. My journey into tech grew from years of helping people, solving problems, and telling stories that connect people. Now, I’m bringing those skills into development by building web experiences that are not only functional but also engaging, user-friendly, and human-centred.
 
 - 🔭 **Current Role**: Web Development Student at [Humber Polytechnic](https://humber.ca/)
