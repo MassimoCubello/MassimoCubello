@@ -25,9 +25,8 @@ I’m a web developer with a background in marketing and customer success. My jo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mamp/mamp-original.svg" alt="MAMP" width="40" height="40"/>
   <img src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.png" alt="Stack Overflow" width="40" height="40"/>
-  <img src="https://cdn.discordapp.com/icons/123456789012345678/abcdef1234567890.png" alt="Discord" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
 </p>
 
 ## 📊 GitHub Stats and Activity
