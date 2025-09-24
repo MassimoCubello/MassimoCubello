@@ -9,11 +9,9 @@ I’m a web developer with a background in marketing and customer success. My jo
 - 💼 **LinkedIn**: [Massimo Cubello](https://www.linkedin.com/in/massimocubello/)
 - 📚 **Stack Overflow**: [Massimo Cubello](https://stackoverflow.com/users/31414339/massimo-cubello)
 
-## Languages and Tools <!-- Include shields for each technology -->
+## Languages and Tools <!-- Include shields.io badges for each technology -->
 ### Languages ###
 <p>
-
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -24,11 +22,28 @@ I’m a web developer with a background in marketing and customer success. My jo
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="filter: invert(1);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio-code/visualstudio-code-plain.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
+
+### Languages ###
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg" alt="HTML5" width="40" height="40" style="fill:#E34F26;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/csharp.svg" alt="C#" width="40" height="40" style="fill:#239120;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" alt="JavaScript" width="40" height="40" style="fill:#F7DF1E;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/php.svg" alt="PHP" width="40" height="40" style="fill:#777BB4;"/>
+</p>
+
+### Tools ###
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/git.svg" alt="Git" width="40" height="40" style="fill:#F05032;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" alt="GitHub" width="40" height="40" style="filter: invert(1);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/visualstudio.svg" alt="Visual Studio" width="40" height="40" style="fill:#5C2D91;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/figma.svg" alt="Figma" width="40" height="40" style="fill:#F24E1E;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mysql.svg" alt="MySQL" width="40" height="40" style="fill:#4479A1;"/>
+</p>
+
 
 ## 📊 GitHub Stats and Activity
 
