@@ -9,11 +9,11 @@ I’m a web developer with a background in marketing and customer success. My jo
 - 💼 **LinkedIn**: [Massimo Cubello](https://www.linkedin.com/in/massimocubello/)
 - 📚 **Stack Overflow**: [Massimo Cubello](https://stackoverflow.com/users/31414339/massimo-cubello)
 
-## Languages and Tools ## <!-- Include icons for each technology -->
+## Languages and Tools <!-- Include icons for each technology -->
 ### Languages ###
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 </p>
@@ -21,13 +21,14 @@ I’m a web developer with a background in marketing and customer success. My jo
 ### Tools ###
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="filter: invert(1);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mamp/mamp-original.svg" alt="MAMP" width="40" height="40"/>
-  
-</p>  
+  <img src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.png" alt="Stack Overflow" width="40" height="40"/>
+  <img src="https://cdn.discordapp.com/icons/123456789012345678/abcdef1234567890.png" alt="Discord" width="40" height="40"/>
+</p>
 
 ## 📊 GitHub Stats and Activity
 
