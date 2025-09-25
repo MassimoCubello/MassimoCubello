@@ -29,6 +29,8 @@ I’m a web developer with a background in marketing and customer success. My jo
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Homebrew](https://img.shields.io/badge/Homebrew-000000?style=for-the-badge&logo=homebrew&logoColor=white)
+![W3C Validator](https://img.shields.io/badge/W3C%20Validator-FF7F00?style=for-the-badge&logo=w3c&logoColor=white)
 
 ## 💻 GitHub Profile Stats
 <!-- GitHub Profile Stats -->
