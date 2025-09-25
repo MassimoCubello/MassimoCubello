@@ -42,11 +42,6 @@ I’m a web developer with a background in marketing and customer success. My jo
 
   <b>Note:</b> Top languages is a metric of languages only found in my public code and doesn't reflect experience or skill level. Other languages like C# and JavaScript are found in my private code.
   
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MassimoCubello's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MassimoCubello&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
 <!--
 **MassimoCubello/MassimoCubello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
