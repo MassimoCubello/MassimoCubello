@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MassimoCubello&label=Profile%20views&color=0e75b6&style=flat" alt="MassimoCubello" /> </p>
 
-I’m a web developer with a background in marketing and customer success. My journey into tech grew from years of helping clients, solving problems, and telling stories that connect people. Now, I’m bringing those skills into development by building web experiences that are not only functional but also engaging, user-friendly, and human-centred.
+I’m a web developer with a background in marketing and customer success. My journey into tech grew from years of helping clients market their solutions, solving operational problems, and telling stories that connect people. Now, I’m bringing those skills into development by building web experiences that are not only functional but also engaging, user-friendly, and human-centred.
 
 - 🔭 **Current Role**: Web Development Student at [Humber Polytechnic](https://humber.ca/)
 - 🦋 **Bluesky**: [@massimocubello.bsky.social](https://bsky.app/profile/massimocubello.bsky.social)
@@ -46,8 +46,18 @@ I’m a web developer with a background in marketing and customer success. My jo
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MassimoCubello's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MassimoCubello&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MassimoCubello's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MassimoCubello&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="MassimoCubello's Github Stats" 
+       src="https://github-readme-stats.vercel.app/api?username=MassimoCubello&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=60A5FA&text_color=E5E7EB" 
+       height="192px"/>
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="MassimoCubello's Top Languages" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MassimoCubello&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=60A5FA&text_color=E5E7EB&hide=Jupyter%20Notebook,Roff" 
+       height="192px"/>
+</a>
+
 
   <b>Note:</b> Top languages is a metric of languages only found in my public code and doesn't reflect experience or skill level. Other languages like C# and JavaScript are found in my private code.
   
