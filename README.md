@@ -15,7 +15,6 @@ I’m a web developer with a background in marketing and customer success. My jo
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
@@ -26,11 +25,16 @@ I’m a web developer with a background in marketing and customer success. My jo
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-3B99FC?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MAMP](https://img.shields.io/badge/MAMP-003545?style=for-the-badge&logo=apache&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![FileZilla](https://img.shields.io/badge/FileZilla-BE2431?style=for-the-badge&logo=filezilla&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FB7E1E?style=for-the-badge&logo=cpanel&logoColor=white)
+
+### Other Platforms
 ![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Homebrew](https://img.shields.io/badge/Homebrew-000000?style=for-the-badge&logo=homebrew&logoColor=white)
 ![W3C Validator](https://img.shields.io/badge/W3C%20Validator-FF7F00?style=for-the-badge&logo=w3c&logoColor=white)
+![Pardot](https://img.shields.io/badge/Pardot-FF6F00?style=for-the-badge&logo=salesforce&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ## 💻 GitHub Profile Stats
 <!-- GitHub Profile Stats -->
