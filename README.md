@@ -47,7 +47,7 @@ I’m a web developer with a background in marketing and customer success. My jo
 </a>
 
 
-  <b>Note:</b> Top languages is a metric of languages only found in my public code and doesn't reflect experience or skill level. Other languages like CSS, JavaScript, and C# are present in my private code.
+  <b>Note:</b> Top languages is a metric of languages only found in my public code and doesn't reflect experience or skill level. Other languages including JavaScript and C# are present in my private code.
   
 <!--
 **MassimoCubello/MassimoCubello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
