@@ -34,6 +34,7 @@ I’m a web developer with a background in marketing and customer success. My jo
 ![W3C Validator](https://img.shields.io/badge/W3C%20Validator-FF7F00?style=for-the-badge&logo=w3c&logoColor=white)
 ![Pardot](https://img.shields.io/badge/Pardot-FF6F00?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![FontAwesome](https://img.shields.io/badge/Font%20Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
