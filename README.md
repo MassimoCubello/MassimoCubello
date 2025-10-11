@@ -18,7 +18,7 @@ I’m a web developer with a background in marketing and customer success. My jo
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-### Tools
+### Developer Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -29,11 +29,11 @@ I’m a web developer with a background in marketing and customer success. My jo
 ![cPanel](https://img.shields.io/badge/cPanel-FB7E1E?style=for-the-badge&logo=cpanel&logoColor=white)
 
 ### Other Platforms
-![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Homebrew](https://img.shields.io/badge/Homebrew-000000?style=for-the-badge&logo=homebrew&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Homebrew](https://img.shields.io/badge/Homebrew-000000?style=for-the-badge&logo=homebrew&logoColor=white)
 ![Lucid](https://img.shields.io/badge/Lucid-0000FF?style=for-the-badge&logo=lucidchart&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Pardot](https://img.shields.io/badge/Pardot-FF6F00?style=for-the-badge&logo=salesforce&logoColor=white)
