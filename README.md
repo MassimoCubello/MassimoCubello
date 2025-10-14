@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MassimoCubello&label=Profile%20views&color=0e75b6&style=flat" alt="MassimoCubello" /> </p>
 
-I’m a web developer with a background in marketing and customer success. My journey into tech grew from years of helping clients market their solutions, solving operational problems, and telling stories that connect people. Now, I’m bringing those skills into development by building web experiences that are not only functional but also engaging, user-friendly, and human-centred.
+I’m Massimo — a web developer with ten years of experience in marketing and customer success. I bridge the gap between tech and marketing by crafting web experiences that blend storytelling, clean code, and user insight to engage, convert, and connect people.
 
 - 🔭 **Current Role**: Web Development Student at [Humber Polytechnic](https://humber.ca/)
 - 🦋 **Bluesky**: [@massimocubello.bsky.social](https://bsky.app/profile/massimocubello.bsky.social)
