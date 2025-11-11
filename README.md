@@ -48,7 +48,7 @@ I’m Massimo — a web developer with ten years of experience in marketing and 
 </a>
 
 
-  <b>Note:</b> Top languages is a metric of languages only found in my public code and doesn't reflect experience or skill level. Other languages including C# and PHP are present in my private code.
+  <b>Note:</b> Top languages is a metric of languages only found in my public code and doesn't reflect experience or skill level. Other languages such as C# are present in my private code.
   
 <!--
 **MassimoCubello/MassimoCubello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
