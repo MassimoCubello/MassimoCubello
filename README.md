@@ -2,12 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MassimoCubello&label=Profile%20views&color=0e75b6&style=flat" alt="MassimoCubello" /> </p>
 
-I’m Massimo — a web developer with ten years of experience in marketing and customer success. I help bridge the gap between tech and marketing by crafting web experiences that blend storytelling, clean code, and user insight to engage, convert, and connect people.
+Hey! I’m a web developer with 10+ years of experience in the marketing world. I build clean, consistent interfaces and love when good design + solid tech = happy users.
 
 - 🔭 **Current Role**: Web Development Student at [Humber Polytechnic](https://humber.ca/)
 - 🦋 **Bluesky**: [@massimocubello.bsky.social](https://bsky.app/profile/massimocubello.bsky.social)
 - 💼 **LinkedIn**: [Massimo Cubello](https://www.linkedin.com/in/massimocubello/)
-- 📚 **Stack Overflow**: [Massimo Cubello](https://stackoverflow.com/users/31414339/massimo-cubello)
 
 ## 🛠️ Languages and Tools <!-- Include shields.io badges for each technology -->
 ### Languages
@@ -32,8 +31,6 @@ I’m Massimo — a web developer with ten years of experience in marketing and 
 ### Other Platforms
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Homebrew](https://img.shields.io/badge/Homebrew-000000?style=for-the-badge&logo=homebrew&logoColor=white)
 ![Lucid](https://img.shields.io/badge/Lucid-0000FF?style=for-the-badge&logo=lucidchart&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Pardot](https://img.shields.io/badge/Pardot-FF6F00?style=for-the-badge&logo=salesforce&logoColor=white)
