@@ -26,7 +26,7 @@ Hey! I’m a web developer with 10+ years of experience in the marketing world. 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MAMP](https://img.shields.io/badge/MAMP-003545?style=for-the-badge&logo=apache&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FileZilla-BE2431?style=for-the-badge&logo=filezilla&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-FB7E1E?style=for-the-badge&logo=cpanel&logoColor=white)
+![Brevo](https://img.shields.io/badge/Brevo-FF6F61?style=for-the-badge&logo=sendinblue&logoColor=white)
 
 ### Other Platforms
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
