@@ -39,17 +39,17 @@ Hey! I’m a web developer with 10+ years of experience in the marketing world. 
 ![Lucid](https://img.shields.io/badge/Lucid-0000FF?style=for-the-badge&logo=lucidchart&logoColor=white)
 ![Pardot](https://img.shields.io/badge/Pardot-FF6F00?style=for-the-badge&logo=salesforce&logoColor=white)
 
-## 💻 GitHub Profile Stats
+<!-- ## 💻 GitHub Profile Stats -->
 <!-- GitHub Profile Stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="MassimoCubello's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MassimoCubello&show_icons=true&include_all_commits=true&count_private=true&theme=prussian&hide_border=true" height="192px"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="MassimoCubello's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MassimoCubello&langs_count=8&layout=compact&theme=prussian&hide_border=true" height="192px"/>
-</a>
+</a> -->
 
 
-  <b>Note:</b> Top languages is a metric of languages only found in my public code and doesn't reflect experience or skill level. Other languages such as C# are present in my private code.
+<!-- <b>Note:</b> Top languages is a metric of languages only found in my public code and doesn't reflect experience or skill level. Other languages such as C# are present in my private code. -->
   
 <!--
 **MassimoCubello/MassimoCubello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
