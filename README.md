@@ -2,7 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MassimoCubello&label=Profile%20views&color=0e75b6&style=flat" alt="MassimoCubello" /> </p>
 
-Hey! I’m a web developer with 10+ years of experience in the marketing world. I build clean, consistent interfaces and love when good design + solid tech = happy users.
+Hey! I’m a digital experience expert with a 15-year background in marketing, web development, and customer success. From websites and gaming to the way the internet works behind the scenes, I’ve always loved the tech world and learning about what makes it tick.
+
+I build clean, consistent interfaces and love when good design + solid tech = happy users.
 
 - 🔭 **Current Role**: Web Development Student at [Humber Polytechnic](https://humber.ca/)
 - 🦋 **Bluesky**: [@massimocubello.bsky.social](https://bsky.app/profile/massimocubello.bsky.social)
