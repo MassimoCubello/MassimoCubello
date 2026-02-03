@@ -39,6 +39,7 @@ I build clean, consistent interfaces and love when good design + solid tech = ha
 ![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Lucid](https://img.shields.io/badge/Lucid-0000FF?style=for-the-badge&logo=lucidchart&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Pardot](https://img.shields.io/badge/Pardot-FF6F00?style=for-the-badge&logo=salesforce&logoColor=white)
 
 <!-- ## 💻 GitHub Profile Stats -->
