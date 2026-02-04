@@ -29,6 +29,7 @@ I build clean, consistent interfaces and love when good design + solid tech = ha
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-3B99FC?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MAMP](https://img.shields.io/badge/MAMP-003545?style=for-the-badge&logo=apache&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=aspdotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FileZilla-BE2431?style=for-the-badge&logo=filezilla&logoColor=white)
