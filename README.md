@@ -6,9 +6,9 @@ Hey! I’m a digital experience expert with a 15-year background in marketing, c
 
 I build clean, consistent interfaces and love when good design + solid tech = happy users.
 
-- 🔭 **Current Role**: Digital Experience Lead, Esports at [Humber Polytechnic](https://humber.ca/)
+- 💼 **Current Role**: Digital Experience Lead, Esports at [Humber Polytechnic](https://humber.ca/)
 - 🦋 **Bluesky**: [@massimocubello.bsky.social](https://bsky.app/profile/massimocubello.bsky.social)
-- 💼 **LinkedIn**: [Massimo Cubello](https://www.linkedin.com/in/massimocubello/)
+- 🔗 **LinkedIn**: [Massimo Cubello](https://www.linkedin.com/in/massimocubello/)
 
 ## 🛠️ Languages and Tools <!-- Include shields.io badges for each technology -->
 ### Languages
