@@ -36,8 +36,9 @@ I build clean, consistent interfaces and love when good design + solid tech = ha
 ![FileZilla](https://img.shields.io/badge/FileZilla-BE2431?style=for-the-badge&logo=filezilla&logoColor=white)
 
 ### Other Platforms
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![Linktree](https://img.shields.io/badge/Linktree-06C755?style=for-the-badge&logo=linktree&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Lucid](https://img.shields.io/badge/Lucid-0000FF?style=for-the-badge&logo=lucidchart&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white)
