@@ -20,6 +20,7 @@ I build clean, consistent interfaces and love when good design + solid tech = ha
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Tools and Frameworks
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -31,6 +32,7 @@ I build clean, consistent interfaces and love when good design + solid tech = ha
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Warp](https://img.shields.io/badge/Warp-000000?style=for-the-badge&logo=warp&logoColor=white)
 
 ### Other Platforms
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
@@ -43,6 +45,8 @@ I build clean, consistent interfaces and love when good design + solid tech = ha
 ![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Pardot](https://img.shields.io/badge/Pardot-FF6F00?style=for-the-badge&logo=salesforce&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Squarespace](https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white)
 
 <!-- ## 💻 GitHub Profile Stats -->
 <!-- GitHub Profile Stats -->
