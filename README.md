@@ -2,9 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MassimoCubello&label=Profile%20views&color=0e75b6&style=flat" alt="MassimoCubello" /> </p>
 
-Hey! I’m a digital experience expert with a 15-year background in marketing, customer success, and web development. From websites and gaming to the way the internet works behind the scenes, I’ve always loved the tech world and learning about what makes it tick.
-
-I build clean, consistent interfaces and love when good design + solid tech = happy users.
+Hey! I’m a digital experience expert with a 15-year background in marketing, creative writing, and web development. From websites and gaming to the way the internet works behind the scenes, I’ve always loved the tech world and learning about what makes it tick.
 
 - 🎮 **Current Role #1**: Digital Experience Lead, Esports at [Humber Polytechnic](https://humber.ca/)
 - ✍️ **Current Role #2**: Editor and Contributing Writer at [Simstaff](https://simstaff.com/)
@@ -32,7 +30,6 @@ I build clean, consistent interfaces and love when good design + solid tech = ha
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Warp](https://img.shields.io/badge/Warp-000000?style=for-the-badge&logo=warp&logoColor=white)
 
 ### Other Platforms
