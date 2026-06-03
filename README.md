@@ -35,7 +35,6 @@ Hey! I’m a digital experience expert with a 15-year background in marketing, c
 ### Other Platforms
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-FF4785?style=for-the-badge&logo=elementor&logoColor=white)
 ![Linktree](https://img.shields.io/badge/Linktree-06C755?style=for-the-badge&logo=linktree&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
